@@ -3,3 +3,4 @@
 这是master分支上的内容
 解决合并冲突
 version1
+version2
